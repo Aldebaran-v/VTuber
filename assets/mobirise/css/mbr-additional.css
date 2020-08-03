@@ -1137,17 +1137,38 @@ section.lazy-placeholder:after {
 .cid-s2wJTMeLbX H1 {
   text-align: center;
 }
+.cid-s6DrdKcbyt {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s6DrdKcbyt .image-block {
+  margin: auto;
+}
+.cid-s6DrdKcbyt figcaption {
+  position: relative;
+}
+.cid-s6DrdKcbyt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s6DrdKcbyt .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s2yvf0aSbx {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1920.jpg");
+  background-image: url("../../../assets/images/-1500x500.png");
 }
 .cid-s2yvf0aSbx P {
   color: #767676;
 }
 .cid-s2yvf0aSbx .mbr-text,
 .cid-s2yvf0aSbx .mbr-section-btn {
-  color: #ffffff;
+  color: #073b4c;
 }
 .cid-s2yEgVlOyV {
   padding-top: 90px;
